@@ -10,7 +10,9 @@
 ## ✨UI/UX
 |vew|
 |:----:|
-|![totoro](https://github.com/user-attachments/assets/8df97aca-6e1e-4f6a-80f6-cd0387990e3b)|
+|![totoroanimation](https://github.com/user-attachments/assets/30e39dfa-8599-4e74-b114-f7e33670a7c4)
+|
+
 
 ## ❕느낀점
 엄..음... 왜 배운지 얼마안됬는데 벌써부터 가물가물한걸까 ㅠㅠ..
