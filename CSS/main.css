@@ -40,8 +40,8 @@ body {
 
 .dream-list {
   position: relative;
-  width: 200px;
-  height: 300px;
+  width: 15rem;
+  height: 20rem;
   top: 40%;
   left: 45%;
   transform: translate(-50%, -50%);
